@@ -1,0 +1,25 @@
+.navbar-header{
+    margin-left: 30px;
+}
+ul li{
+padding: 0px 20px;
+}
+#navCon{
+    margin-left: 5%;
+}
+.nav-link {
+    font-size: 20px;
+    font-weight: 900;
+    color: rgb(36, 36, 255);
+   
+}
+.nav-link:hover{
+    background-color: black;
+    color: white;
+}
+.dropdown-toggler:hover,.dropdown-item:hover {
+    background-color: black;
+    color:white;
+  }
+
+

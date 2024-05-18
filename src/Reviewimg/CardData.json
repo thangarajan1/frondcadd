@@ -1,0 +1,127 @@
+[
+    {
+        "img":"https://leonfurze.com/wp-content/uploads/2023/10/f22a5e07-e6f1-4ab3-8e29-80318bdeb932.jpeg",
+        "coursename":"Civil",
+        "classtime":"Direct Classes | Online Classes | Indivial Classes | Fast Moving classes",
+        "course":[
+          "AutoCAD",
+          "Microstation",
+          "Revit Architecture",
+          "3ds Max",
+          "maya",
+          "Sketchup",
+          "Vray",
+          "Lumion",
+          "StaadPro",
+          "Etabs",
+          "RCC Datailing",
+          "Tekla",
+          "Qto",
+          "Navisworks",
+          "MX Road",
+          "AutoCAD Civil 3D"
+        ]
+    },
+    {
+      "img": "https://leonfurze.com/wp-content/uploads/2023/10/f22a5e07-e6f1-4ab3-8e29-80318bdeb932.jpeg",
+      "coursename": "Mechanical",
+      "classtime": "Direct Classes | Online Classes | Indivial Classes | Fast Moving classes",
+      "course": [
+        "GD&T",
+        "AutoCAD",
+        "Plant 3D",
+        "Solidworks",
+        "Solidworks Motions",
+        "Creo",
+        "Catia",
+        "Catia kinematics",
+        "Inventor",
+        "Fusion 360",
+        "NXCAD",
+        "NX CAM",
+        "NX Nastran",
+        "master CAM",
+        "HVAC",
+        "PDMS",
+        "3D Printing",
+        "Ansys Workbench",
+        "Ansys Fluent",
+        "Hypermesh",
+        "Plant Simulation"
+      ]
+    },
+    {
+      "img": "https://leonfurze.com/wp-content/uploads/2023/10/f22a5e07-e6f1-4ab3-8e29-80318bdeb932.jpeg",
+      "coursename": "Electrical",
+      "classtime": "Direct Classes | Online Classes | Indivial Classes | Fast Moving classes",
+      "course": [
+        "AutoCAD",
+        "Revit MEP",
+        "PLC Scada",
+        "Embedded",
+        "Matlab",
+        "PCB Design"
+      ]
+    },
+    {
+      "img": "https://leonfurze.com/wp-content/uploads/2023/10/f22a5e07-e6f1-4ab3-8e29-80318bdeb932.jpeg",
+      "coursename": "Electronic",
+      "classtime": "Direct Classes | Online Classes | Indivial Classes | Fast Moving classes",
+      "course": ["Microcontroller", "Orcad", "IOT", "Robotics"]
+    },
+    {
+      "img": "https://leonfurze.com/wp-content/uploads/2023/10/f22a5e07-e6f1-4ab3-8e29-80318bdeb932.jpeg",
+      "coursename": "IT Courses",
+      "classtime": "Direct Classes | Online Classes | Indivial Classes | Fast Moving classes",
+      "course": [
+        "C & C++",
+        "Java",
+        "Advanced Java",
+        "Python",
+        "Data Science",
+        "Cloud Computing",
+        "MySQL",
+        "PHP",
+        "ASP.Net with C#",
+        "Selenium",
+        "web designing",
+        "Angular",
+        "React",
+        "Full Stack MERN & MEAN",
+        "Networking",
+        "Ethical Hacking",
+        "Network Security",
+        "Cyber security",
+        "Block Chain"
+      ]
+    },
+    {
+      "img": "https://leonfurze.com/wp-content/uploads/2023/10/f22a5e07-e6f1-4ab3-8e29-80318bdeb932.jpeg",
+      "coursename": "Business Development",
+      "classtime": "Direct Classes | Online Classes | Indivial Classes | Fast Moving classes",
+      "course": [
+        "MS Office",
+        "Tally Prime",
+        "Advance Excel",
+        "Digital Marketing"
+      ]
+    },
+    {
+      "img": "https://leonfurze.com/wp-content/uploads/2023/10/f22a5e07-e6f1-4ab3-8e29-80318bdeb932.jpeg",
+      "coursename": "Management",
+      "classtime": "Direct Classes | Online Classes | Indivial Classes | Fast Moving classes",
+      "course": ["SAP", "Primavera", "MS Project"]
+    },
+    {
+      "img": "https://leonfurze.com/wp-content/uploads/2023/10/f22a5e07-e6f1-4ab3-8e29-80318bdeb932.jpeg",
+      "coursename": "Designing",
+      "classtime": "Direct Classes | Online Classes | Indivial Classes | Fast Moving classes",
+      "course": ["Photoshop", "illustrator", "Corel Draw", "After effect"]
+    },
+    {
+      "img": "https://leonfurze.com/wp-content/uploads/2023/10/f22a5e07-e6f1-4ab3-8e29-80318bdeb932.jpeg",
+      "coursename": "Spoken English",
+      "classtime": "Direct Classes | Online Classes | Indivial Classes | Fast Moving classes",
+      "course": ["Spoken English"]
+    }
+]

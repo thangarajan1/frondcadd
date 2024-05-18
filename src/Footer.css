@@ -1,0 +1,11 @@
+
+i{
+  
+    text-shadow: 10px 10px 20px black;
+}
+i:hover {
+    scale: 1.5;
+  }
+a,h2,address{
+    color:white; 
+  }

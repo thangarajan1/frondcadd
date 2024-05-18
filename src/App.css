@@ -1,0 +1,28 @@
+.container{
+  margin-top: 70px;
+}
+
+.btn {
+  font-size: 15px;
+  border: none;
+  border-radius: 5px;
+  background-image: linear-gradient(to left, #150ebf, black);
+  color: white;
+}
+
+.btn:hover {
+  color: white;
+  background-image: linear-gradient(to right, #150ebf, black);
+}
+h1,h2,h4{
+  color: rgba(60, 6, 130, 1);
+  font-weight: 900;
+  background-image: linear-gradient(#150ebf, black);
+  background-size: cover;
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+}
+.footerH1{
+  background-image: linear-gradient(#ffffff, rgb(255, 255, 255));
+}
+
